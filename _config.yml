@@ -23,7 +23,7 @@ repository               : "Bibek4175/Bibek4175.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.webp"
   name             : "Bibek Chand"
   pronouns         : # example: "she/her"  
   bio              : "Coomputer Engineer with Interest in Computer Vision and Trustworthy AI"
