@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Bibek Chand/Bibek4175"
+title                    : "Bibek Chand"
 title_separator          : "-"
 name                     : &name "Bibek Chand"
 description              : &description "Bibek Chand"   # Update this with a general description of your site, this is the default if not overridden by a page
